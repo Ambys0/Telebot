@@ -5,8 +5,8 @@ from aiogram.dispatcher import Dispatcher
 from aiogram.utils import executor
 
 
-TOKEN = '5478265131:AAGBHvDuwi-NMgxSkQxe-_aBGUQcfmLQrYA'
-API_KEY = '499612c952951b4ec1036569d9428a46'
+TOKEN = '-'
+API_KEY = '-'
 
 bot = Bot(TOKEN)
 dp = Dispatcher(bot)
